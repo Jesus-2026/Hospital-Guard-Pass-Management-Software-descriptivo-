@@ -22,7 +22,6 @@
 ## Documentación Técnica
 
 ### 🔧 Para Desarrolladores
-- [**API Documentation**](API-DOCUMENTATION.md) - Endpoints, autenticación, ejemplos
 - [**Technical Specifications**](TECHNICAL-SPECIFICATIONS.md) - Arquitectura, stack, requerimientos
 - [**DEVELOPMENT.md**](../DEVELOPMENT.md) - Guía de desarrollo y convenciones
 
