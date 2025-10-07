@@ -1,5 +1,24 @@
 # 📚 Documentación - Sistema de Pases de Guardia Hospitalaria
 
+## 🖼️ Capturas de Pantalla Desktop
+
+### Dashboard Principal
+![Login](images/login.png)
+
+### Gestión de Pacientes
+![Pacientes](images/patient-list.png)
+
+### Pase de Guardia (Protocolo ISBAR)
+![Pase de Guardia](images/guard-pass.png)
+
+### Historial Clinico
+![Historial](images/historial.png)
+
+
+## 🖼️ Capturas de Pantalla Mobile
+
+....
+
 ## Documentación Técnica
 
 ### 🔧 Para Desarrolladores
